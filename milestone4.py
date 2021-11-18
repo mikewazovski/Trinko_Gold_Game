@@ -1,18 +1,3 @@
-#CS 177 - milestone3
-# (Nabi, 00328-20364)
-# Following the Coding Standards and Guidelines
-# This program brings everything together and completes Trinko Gold animated video game
-
-
-
-#creative part1 shows the correct answer if the clicked answer is incorrect
-#creative part2 makes the ball fall and the ball count is the same as the score number. Moreover,
-# the recommendation is prompted after the game finishes.
-
-
-
-
-
 from graphics import *
 from random import *
 
